@@ -4,7 +4,7 @@
 
 [Kubernetes and Terraform security lab](https://github.com/incubator864-ship-it/kubernetes-terraform-security-lab)
 
-The first phase covers Terraform managed workloads, Pod Security Standards, service accounts, and namespace scoped RBAC. Configuration validation has passed. Runtime checks remain open.
+The workbench compares baseline and tuned detections against synthetic events, including malicious near matches, missing telemetry, and a documented blind spot. Twelve Python tests pass. GitHub Actions has deployed it to a disposable Kubernetes cluster and verified RBAC, nonroot execution, token mounts, filesystem restrictions, and Pod Security admission. The cluster is deleted after verification.
 
 - [Setup and verification](https://github.com/incubator864-ship-it/kubernetes-terraform-security-lab#readme)
 - [Engineering decisions](https://github.com/incubator864-ship-it/kubernetes-terraform-security-lab/blob/main/docs/engineering-notes.md)

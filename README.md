@@ -15,7 +15,7 @@ I work across AWS, Azure, and Kubernetes, with a focus on CrowdStrike Falcon, Sp
 
 This profile is the starting point for my engineering work and learning notes. Published labs distinguish implementation from tested results. They use lab resources and synthetic data, never employer code, credentials, or telemetry.
 
-**[Kubernetes and Terraform security lab](https://github.com/incubator864-ship-it/kubernetes-terraform-security-lab)** (in progress). A local Kubernetes environment for practicing workload hardening, RBAC, infrastructure changes, and detection validation. Falcon and Splunk integrations will be documented separately when tested.
+**[Kubernetes and Terraform security lab](https://github.com/incubator864-ship-it/kubernetes-terraform-security-lab)** (in progress). A Python detection tuning workbench deployed to a disposable Kubernetes cluster with Terraform. Twelve tests and live CI checks cover tuning regressions, telemetry gaps, RBAC, and workload restrictions. Falcon and Splunk integrations will be documented separately when tested.
 
 ## Background
 

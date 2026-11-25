@@ -59,6 +59,6 @@ Bachelor of Science in Chemistry, University of West Georgia.
 
 ## Portfolio
 
-[Kubernetes and Terraform security lab](https://github.com/incubator864-ship-it/kubernetes-terraform-security-lab): local lab implementation with Terraform configuration validation completed. Cluster deployment and Falcon/Splunk integrations are not yet validated.
+[Kubernetes and Terraform security lab](https://github.com/incubator864-ship-it/kubernetes-terraform-security-lab): Python detection tuning workbench with 12 passing tests, deployed through Terraform to a disposable Kubernetes cluster with live CI security checks. Falcon/Splunk integrations are not yet implemented.
 
 This public summary is adapted from my DevSecOps and detection engineering resume. Contact details are available on request through LinkedIn.
