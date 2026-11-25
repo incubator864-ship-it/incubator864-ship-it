@@ -15,16 +15,16 @@ I work across AWS, Azure, and Kubernetes, with a focus on CrowdStrike Falcon, Sp
 
 This profile is the starting point for my engineering work and learning notes. Published labs distinguish implementation from tested results. They use lab resources and synthetic data, never employer code, credentials, or telemetry.
 
-**Current build: Kubernetes and Terraform security lab.** A local Kubernetes environment for practicing workload hardening, RBAC, infrastructure changes, and detection validation. Falcon and Splunk integrations will be documented separately when tested.
+**[Kubernetes and Terraform security lab](https://github.com/incubator864-ship-it/kubernetes-terraform-security-lab)** (in progress). A local Kubernetes environment for practicing workload hardening, RBAC, infrastructure changes, and detection validation. Falcon and Splunk integrations will be documented separately when tested.
 
 ## Background
 
 Experience across Capital Rx, Elevance Health, and CVS Health. My work connects infrastructure operations with the security controls and telemetry needed to investigate incidents.
 
-Certifications listed on my resume: CrowdStrike Certified Falcon Administrator (CCFA), AWS Certified Security - Specialty, and CompTIA Security+.
+Certifications: CrowdStrike Certified Falcon Administrator (CCFA), AWS Certified Security - Specialty, and CompTIA Security+.
 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/lojean/)
 
-Resume available on request.
+[Resume](RESUME.md) | [Engineering notebook](ENGINEERING.md)
